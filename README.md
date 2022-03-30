@@ -3,6 +3,7 @@
 В этом проекте я попробовала обучить натренировать модель для генерации текста на наборе фанфиков с сайта Archive of Our Own.
 
 --> вот ссылка на саму модель: https://drive.google.com/drive/folders/11jJVikGAIkgFHRbgjth8f5C6Z03pqkQf?usp=sharing
+
 --> бот: @garbage_barge_bot
 
 Что я делала:
