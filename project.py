@@ -1,5 +1,3 @@
-pip install telebot
-
 import telebot as tb
 from telebot import types
 import random
